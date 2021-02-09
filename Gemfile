@@ -9,6 +9,10 @@ gem 'rails', '~> 6.1.1'
 gem 'sqlite3', '~> 1.4'
 # Use Puma as the app server
 gem 'puma', '~> 5.0'
+# Bootstrap 4 rubygem for Rails
+gem 'bootstrap'
+# A gem to automate using jQuery with Rails
+gem 'jquery-rails'
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 6'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
